@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['id',['id',['../classTgBot_1_1CallbackQuery.html#ae9a9b23ba076f2c6d6ba4421de85f7df',1,'TgBot::CallbackQuery::id()'],['../classTgBot_1_1Chat.html#a0cb746cc149d10ada1af86753f25f93c',1,'TgBot::Chat::id()'],['../classTgBot_1_1InlineQuery.html#a8787b5e72cbfc95c3e938143ba7f6ee7',1,'TgBot::InlineQuery::id()'],['../classTgBot_1_1InlineQueryResult.html#a75316c8ba9522f44aedb9788584156db',1,'TgBot::InlineQueryResult::id()'],['../classTgBot_1_1PreCheckoutQuery.html#afaf8a7d12af830eea0644c30f51f429e',1,'TgBot::PreCheckoutQuery::id()'],['../classTgBot_1_1ShippingOption.html#ac482c80d9eae891d1a08437fa935f48c',1,'TgBot::ShippingOption::id()'],['../classTgBot_1_1ShippingQuery.html#ab3b7dedd15793e42c7efe594e38f8003',1,'TgBot::ShippingQuery::id()'],['../classTgBot_1_1User.html#a52ed387bdcad23b2883ef86a4c1f600f',1,'TgBot::User::id()']]],
+  ['inlinekeyboard',['inlineKeyboard',['../classTgBot_1_1InlineKeyboardMarkup.html#a7ff086034bc62f1a791f2e872e652b4b',1,'TgBot::InlineKeyboardMarkup']]],
+  ['inlinemessageid',['inlineMessageId',['../classTgBot_1_1CallbackQuery.html#a1565d380d5aa70d2304f572e5b56a24e',1,'TgBot::CallbackQuery::inlineMessageId()'],['../classTgBot_1_1ChosenInlineResult.html#ab61cb2aadbf6ab78e334cbc49076514c',1,'TgBot::ChosenInlineResult::inlineMessageId()']]],
+  ['inlinequery',['inlineQuery',['../classTgBot_1_1Update.html#aea03e36b9015a0fe9f1278564c5b8806',1,'TgBot::Update']]],
+  ['inputmessagecontent',['inputMessageContent',['../classTgBot_1_1InlineQueryResult.html#ace9850f165c2e823696aab62391b3943',1,'TgBot::InlineQueryResult']]],
+  ['invoicepayload',['invoicePayload',['../classTgBot_1_1PreCheckoutQuery.html#abbc1cb2aed3ff25dde9272909455b9a0',1,'TgBot::PreCheckoutQuery::invoicePayload()'],['../classTgBot_1_1ShippingQuery.html#aa62e1e79cd7f9ba961128ad89dde7899',1,'TgBot::ShippingQuery::invoicePayload()'],['../classTgBot_1_1SuccessfulPayment.html#a260f6306836c863523054f076c9350c6',1,'TgBot::SuccessfulPayment::invoicePayload()']]],
+  ['isfile',['isFile',['../classTgBot_1_1HttpReqArg.html#a9e372ea4360d239037cfeb673d31d9f3',1,'TgBot::HttpReqArg']]]
+];

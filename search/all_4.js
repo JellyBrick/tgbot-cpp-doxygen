@@ -1,0 +1,18 @@
+var searchData=
+[
+  ['data',['data',['../classTgBot_1_1HttpServer_1_1Connection.html#a23e0644c0e4d02eb96b9dd61404a8788',1,'TgBot::HttpServer::Connection::data()'],['../classTgBot_1_1CallbackQuery.html#a9247402a210f4df79cf044683fb66734',1,'TgBot::CallbackQuery::data()'],['../classTgBot_1_1InputFile.html#a1633c8f4a40274f53ee6aed3ecd42ef7',1,'TgBot::InputFile::data()']]],
+  ['date',['date',['../classTgBot_1_1Message.html#ad49187c847973a024ab158103a8c87fd',1,'TgBot::Message']]],
+  ['deletechatphoto',['deleteChatPhoto',['../classTgBot_1_1Message.html#a35db549a420fd4b5a28b4a5a569770d5',1,'TgBot::Message']]],
+  ['deletecommand',['deleteCommand',['../classTgBot_1_1EventBroadcaster.html#afdd468854685e947ef83e9f3c71649fc',1,'TgBot::EventBroadcaster::deleteCommand(const std::string &amp;commandName)'],['../classTgBot_1_1EventBroadcaster.html#a7426de088065f783fedc5e0d0830c190',1,'TgBot::EventBroadcaster::deleteCommand(const std::initializer_list&lt; std::string &gt; &amp;commandsList)']]],
+  ['deletemessage',['deleteMessage',['../classTgBot_1_1Api.html#a6302f338a5af745533847c62e2c91018',1,'TgBot::Api']]],
+  ['deletewebhook',['deleteWebhook',['../classTgBot_1_1Api.html#af924cf5917fcb39f9c3df91a748d0347',1,'TgBot::Api']]],
+  ['description',['description',['../classTgBot_1_1InlineQueryResultArticle.html#adb17d53fd713e3203b6e3ebf4947d404',1,'TgBot::InlineQueryResultArticle::description()'],['../classTgBot_1_1InlineQueryResultCachedDocument.html#adbd95fa3dd4f9d2efce22f79efff5650',1,'TgBot::InlineQueryResultCachedDocument::description()'],['../classTgBot_1_1InlineQueryResultCachedPhoto.html#ae3ee1094fb0d586145265557a4967472',1,'TgBot::InlineQueryResultCachedPhoto::description()'],['../classTgBot_1_1InlineQueryResultCachedVideo.html#a9e8cec9c88eaa986929575dda800f833',1,'TgBot::InlineQueryResultCachedVideo::description()'],['../classTgBot_1_1InlineQueryResultDocument.html#a1a8cb4000b1a15091a03196d3304b363',1,'TgBot::InlineQueryResultDocument::description()'],['../classTgBot_1_1InlineQueryResultPhoto.html#a3bc4bf8bfdadeff170be433b537d445a',1,'TgBot::InlineQueryResultPhoto::description()'],['../classTgBot_1_1InlineQueryResultVideo.html#a43bbb53cf78b8ea8f40590d014e23eec',1,'TgBot::InlineQueryResultVideo::description()'],['../classTgBot_1_1Invoice.html#ad3c1a7a4fbf8157e3fd72a2352226fbd',1,'TgBot::Invoice::description()']]],
+  ['disablewebpagepreview',['disableWebPagePreview',['../classTgBot_1_1InputTextMessageContent.html#a34537bb0f04f312293f4717526f32ecc',1,'TgBot::InputTextMessageContent']]],
+  ['document',['document',['../classTgBot_1_1Message.html#a9d4520b321f421425803aa5c5a414e72',1,'TgBot::Message']]],
+  ['document',['Document',['../classTgBot_1_1Document.html',1,'TgBot']]],
+  ['document_2eh',['Document.h',['../Document_8h.html',1,'']]],
+  ['documentfileid',['documentFileId',['../classTgBot_1_1InlineQueryResultCachedDocument.html#adc8dec6c94ecd3948a02123010fc9454',1,'TgBot::InlineQueryResultCachedDocument']]],
+  ['documenturl',['documentUrl',['../classTgBot_1_1InlineQueryResultDocument.html#ad100723d377947665ed69b77bc3a7746',1,'TgBot::InlineQueryResultDocument']]],
+  ['downloadfile',['downloadFile',['../classTgBot_1_1Api.html#a093648c83194f1fef00c3cf3fbec3ae4',1,'TgBot::Api']]],
+  ['duration',['duration',['../classTgBot_1_1Audio.html#a91867bc1857d43021c352781c8b1764d',1,'TgBot::Audio::duration()'],['../classTgBot_1_1Video.html#a93c71de6b8a012b185618a896c4c5e5a',1,'TgBot::Video::duration()'],['../classTgBot_1_1VideoNote.html#a353b92dd7a6d3f4b370dcbea9a7f40ec',1,'TgBot::VideoNote::duration()'],['../classTgBot_1_1Voice.html#a65629e696801e0c68e7822a82df13679',1,'TgBot::Voice::duration()']]]
+];
